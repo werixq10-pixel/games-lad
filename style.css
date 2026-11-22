@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: 55px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.button {
+   
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: 30px;
+    margin-bottom: 27px;
+    background-color: white;
+}
+
+p {
+    font-size: 24px;
+    background-color: white;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    background-color: white;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: 45px;
+}
+
+.article-but {
+    text-decoration: none;
+   background-color: white;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: white;
+    padding: 33px;
+}
+
+footer a {
+    margin-right: 44px;
+    background-color: white;
+}
+
+footer p {
+    font-size: 24px;
+    background-color: white;
+}
